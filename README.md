@@ -1,6 +1,6 @@
 # Plot.ly-Challenge
 
-Dashboard to show patient metadata along with Bacteria strains found in host belly buttom.
+Dashboard to show patient metadata along with Bacteria strains found in host belly button.
 
 Select Subject ID number to display:
 
